@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src=https://github.com/AkagamiShnaks/AkagamiShnaks/blob/main/assets/1936.gif"  />
+<img align="right" height="200" src="https://github.com/AkagamiShnaks/AkagamiShnaks/blob/main/assets/1936.gif"  />
 
 ### 🔭 Current Work & Interests:
 - 🧠 Bangla News Event Detection using Transformers & NER  

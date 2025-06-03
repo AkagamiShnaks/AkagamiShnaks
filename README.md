@@ -19,11 +19,19 @@
 - 📄 Published in Springer (Bone Tumor Prediction)
 
 ### 🚀 Projects & Repos:
-- ⚽ **Football Player Detection (YOLOv5)** – Real-time detection & tracking of players on the field  
-- 🎥 **OpenCV Frame Labeler** – Efficient frame-by-frame annotation for video datasets  
-- 🛡 **Person-Spoof Detection** – Security-focused ML system for identity spoof detection  
-- 🔍 **Custom YOLOv5 Datasets** – Curating, cleaning, and formatting datasets for YOLO training  
-- 🧰 **Model Training Utilities** – Scripts and notebooks to streamline training pipelines  
+⚽ Football Field Analytics (Jupyter Notebooks) – Analyze football images; jersey colors and pose estimation.
+
+-🤖 AI Agent Chatbot – Build AI agents with FastAPI and Streamlit
+
+-📝 Samayrizer – Summarizes PDF documents quickly and efficiently.
+
+-📰 Ghotona Chitro – Detects events from Bangla text sources.
+
+-📚 Bangla Article Dataset – Curated Bangla news articles for NLP research.
+
+-🍽️ RestaurantSys – Restaurant management system with menu and orders.
+
+-🎥 Opal – Record and share video messages easily.
 
 ---
 

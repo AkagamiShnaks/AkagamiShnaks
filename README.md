@@ -1,7 +1,7 @@
 # Ola!! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/AkagamiShnaks/AkagamiShnaks/blob/main/assets/208593.gif">
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"  />
+<img align="right" height="200" src=https://github.com/AkagamiShnaks/AkagamiShnaks/blob/main/assets/1936.gif"  />
 
 ### 🔭 Current Work & Interests:
 - 🧠 Bangla News Event Detection using Transformers & NER  
